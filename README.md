@@ -1,4 +1,4 @@
-# 💫 Hi!:
+# 💫 Hey!
 💻 Develop web applications.<br>🤖 Work on AI/ML projects.<br>🚀 An explorer of new technologies and frameworks.<br><br>
 
 
